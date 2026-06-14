@@ -1,0 +1,41 @@
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.box {
+    text-align: center;
+}
+
+.title {
+    background-color: aquamarine;
+    color:crimson;
+    border: 1px solid crimson;
+    margin: auto 500px;
+    padding: 2px;
+}
+
+.list {
+    background-color: aquamarine;
+    border: 1px solid crimson;
+    margin: auto 500px;
+    padding: 10px;
+}
+
+.chili {
+    background-color: coral;
+    margin: auto 70px;
+}
+
+.pizza {
+    background-color: goldenrod;
+    margin: auto 70px;
+}
+
+.tacos {
+    background-color: yellowgreen;
+    margin: auto 70px;
+}
